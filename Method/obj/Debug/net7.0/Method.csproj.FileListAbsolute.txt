@@ -1,0 +1,15 @@
+/Users/mustapha/Projects/Method/Method/bin/Debug/net7.0/Method
+/Users/mustapha/Projects/Method/Method/bin/Debug/net7.0/Method.deps.json
+/Users/mustapha/Projects/Method/Method/bin/Debug/net7.0/Method.runtimeconfig.json
+/Users/mustapha/Projects/Method/Method/bin/Debug/net7.0/Method.dll
+/Users/mustapha/Projects/Method/Method/bin/Debug/net7.0/Method.pdb
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/Method.csproj.AssemblyReference.cache
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/Method.AssemblyInfoInputs.cache
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/Method.AssemblyInfo.cs
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/Method.csproj.CoreCompileInputs.cache
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/Method.dll
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/refint/Method.dll
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/Method.pdb
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/Method.genruntimeconfig.cache
+/Users/mustapha/Projects/Method/Method/obj/Debug/net7.0/ref/Method.dll
